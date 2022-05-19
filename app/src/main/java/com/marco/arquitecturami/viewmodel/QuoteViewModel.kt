@@ -12,6 +12,6 @@ class QuoteViewModel : ViewModel() {
     fun randomQuote(){
         val currentQuote : QuoteModel = QuoteProvider.ramdow()
         quoteModel.postValue(currentQuote)
-
+//Instalacion de Dependencias
     }
 }
