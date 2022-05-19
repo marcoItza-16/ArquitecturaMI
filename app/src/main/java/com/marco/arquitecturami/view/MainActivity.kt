@@ -1,4 +1,4 @@
-package com.marco.arquitecturami.model
+package com.marco.arquitecturami.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
