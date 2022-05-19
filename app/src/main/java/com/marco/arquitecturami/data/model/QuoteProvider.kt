@@ -1,4 +1,4 @@
-package com.marco.arquitecturami.model
+package com.marco.arquitecturami.data.model
 
 class QuoteProvider {
     companion object {

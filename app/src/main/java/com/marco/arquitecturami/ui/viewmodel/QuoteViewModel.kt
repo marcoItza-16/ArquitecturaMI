@@ -1,9 +1,9 @@
-package com.marco.arquitecturami.viewmodel
+package com.marco.arquitecturami.ui.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.marco.arquitecturami.model.QuoteModel
-import com.marco.arquitecturami.model.QuoteProvider
+import com.marco.arquitecturami.data.model.QuoteModel
+import com.marco.arquitecturami.data.model.QuoteProvider
 
 class QuoteViewModel : ViewModel() {
 

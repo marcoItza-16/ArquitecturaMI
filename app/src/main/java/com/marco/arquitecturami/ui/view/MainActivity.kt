@@ -1,11 +1,11 @@
-package com.marco.arquitecturami.view
+package com.marco.arquitecturami.ui.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.lifecycle.Observer
 import com.marco.arquitecturami.databinding.ActivityMainBinding
-import com.marco.arquitecturami.viewmodel.QuoteViewModel
+import com.marco.arquitecturami.ui.viewmodel.QuoteViewModel
 
 
 class MainActivity : AppCompatActivity() {
